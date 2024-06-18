@@ -5,3 +5,4 @@ pyopencl
 requests==2.31.0
 websocket-client
 setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
